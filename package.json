@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/comand-project__team-8/",
+    "build": "vite build --base=/js_95_uncle-jonik/",
     "preview": "vite preview"
   },
   "devDependencies": {
